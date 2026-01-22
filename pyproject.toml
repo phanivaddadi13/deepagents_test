@@ -1,0 +1,16 @@
+[project]
+name = "anz"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "deepagents>=0.3.6",
+    "langchain-aws>=1.2.1",
+    "bedrock-agentcore",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
