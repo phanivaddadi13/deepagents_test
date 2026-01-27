@@ -1,3 +1,5 @@
 bedrock-agentcore
 langchain-aws
 deepagents
+langchain-mcp-adapters
+python-dotenv
